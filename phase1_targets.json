@@ -1,225 +1,38 @@
 {
     "edu.au": [
-        "https://staff.divinity.edu.au/staff/roslyn-wright/",
-        "https://staff.divinity.edu.au/staff/brian-macallan/",
+        "https://cbe.anu.edu.au/about/staff-directory",
+        "https://www.rj.nsw.edu.au/contact/staff-directory/",
+        "https://www.canberra.edu.au/directory/",
         "https://staff.flinders.edu.au/staff-directory",
-        "https://researchers.mq.edu.au/files/411363416/351486304.pdf",
-        "https://research-repository.griffith.edu.au/bitstreams/0dadf11e-1f4d-4871-9141-2ea64172afd9/download",
-        "https://dro.deakin.edu.au/ndownloader/files/37052905",
-        "https://ro.ecu.edu.au/cgi/viewcontent.cgi?article=6577&context=ecuworks2022-2026",
-        "https://research-repository.griffith.edu.au/bitstreams/1cbe48d1-b323-4a89-97d9-ebcef840e430/download",
-        "https://research-repository.griffith.edu.au/server/api/core/bitstreams/c59049b5-5721-429c-822e-5f8876476962/content",
-        "https://eprints.qut.edu.au/210083/1/83109989.pdf",
-        "https://eprints.qut.edu.au/118662/1/118662.pdf",
-        "https://www.newcastle.edu.au/__data/assets/pdf_file/0008/952694/CC-B21-CEMP-Rev2-w-Appendicies.pdf",
-        "https://molecularecology.flinders.edu.au/wp-content/uploads/2026/03/276_SocialReview_MarMammSci.pdf",
-        "https://www.westernsydney.edu.au/contacts",
-        "https://documents.uow.edu.au/content/groups/public/@web/@raid/documents/doc/uow205618.pdf",
-        "https://documents.uow.edu.au/~bmartin/pubs/98tk/tiedknowledge.pdf",
-        "https://documents.uow.edu.au/content/groups/public/@web/@gov/documents/doc/uow187882.pdf",
-        "https://www.cdu.edu.au/files/2019-08/Origins-ed2-2006.pdf",
-        "https://downloads.newcastle.edu.au/library/cultural%20collections/pdf/uninews_[d]_may_2000.pdf",
-        "https://www.unsw.edu.au/content/dam/pdfs/science/chemistry/research-reports/2022-09-annual-reports/2022-09-Science-Chemistry-2021-Annual-Report.pdf.coredownload.pdf",
-        "https://espace.library.uq.edu.au/view/UQ:7f94f1f/UQ7f94f1f_OA.pdf",
-        "https://minerva-access.unimelb.edu.au/bitstreams/d0b2db81-f1bd-4b88-9d05-2a8adf8df450/download",
-        "https://unsworks.unsw.edu.au/server/api/core/bitstreams/059f2b21-e73b-4188-9330-1823faf77029/content",
-        "https://minerva-access.unimelb.edu.au/server/api/core/bitstreams/2ec4cbcf-6de6-4122-bf02-c7e2c98b17aa/content"
-    ],
-    "gov.au": [
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/medication-in-hospital",
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/health-assessments-in-hospital",
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/communication-in-hospital",
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/primary-healthcare-explained",
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/records-and-paperwork-at-hospital",
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/security-and-safety-at-hospital",
-        "https://www.nsw.gov.au/covid-19/vaccination/nsw-health-vaccination-clinics-finder",
-        "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/medical-procedures-non-surgical",
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/working-with-your-healthcare-team",
-        "https://www.betterhealth.vic.gov.au/health/servicesandsupport/confidentiality-and-privacy-in-healthcare",
-        "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/south+australian+medicines+formulary+establishment+and+maintenance+framework",
-        "https://www.treasury.sa.gov.au/__data/assets/pdf_file/0009/515898/200708-bp1-budget-overview.pdf",
-        "http://www.barrettinquiry.qld.gov.au/__data/assets/pdf_file/0011/1316/BACCOI-Exhibit-EXH.00117-Statement-of-Tania-Skippen-13-November-2015-part-1-of-12.pdf",
-        "https://www.slhd.nsw.gov.au/rpa/endocrinology/diabetes-team.html",
-        "https://www.scgh.health.wa.gov.au/Our-Services/Service-directory",
-        "https://www.health.gov.au/sites/default/files/documents/2021/08/clinical-categories-review-advisory-committee-timeline.pdf",
-        "https://www.health.gov.au/sites/default/files/2022-11/user-guide-role-of-a-medication-advisory-committee_0.pdf",
-        "https://consultations.health.gov.au/medical-benefits-division/ccrac-report-consultation/",
-        "https://consultations.health.gov.au/evidence-advisory-committee-eac/february-2026/",
-        "https://www.health.gov.au/sites/default/files/documents/2021/08/clinical-categories-review-advisory-committee-terms-of-reference.pdf",
-        "https://www.aihw.gov.au/getmedia/a16e48ec-fee5-442e-8307-b0d51f88598e/2018-1-january-to-30-june.xlsx.aspx",
-        "https://www.aihw.gov.au/getmedia/a37b46db-97d5-4f96-a718-c92de9465da8/2017-1-january-to-30-june.xlsx.aspx",
-        "https://www.health.gov.au/committees-and-groups/blood-borne-viruses-and-sexually-transmissible-infections-standing-committee-bbvss",
-        "https://consultations.health.gov.au/evidence-advisory-committee-eac/september2025/",
-        "https://www.health.gov.au/sites/default/files/documents/2020/02/prostheses-list-advisory-committee-plac-operational-guidelines.pdf",
-        "https://www.aph.gov.au/DocumentStore.ashx?id=85f72e12-aabd-4192-8dc3-6148092ae3cb&subId=659814"
-    ],
-    "youtube.com": [
-        "https://www.youtube.com/watch?v=hhkG2iqsBlA",
-        "https://www.youtube.com/watch?v=JtRVnUq5cKY",
-        "https://www.youtube.com/watch?v=K9Ubq57wkZ8",
-        "https://www.youtube.com/watch?v=YuS4Yj05UO0"
-    ],
-    "facebook.com": [
-        "https://www.facebook.com/RoyalMelbourneHospital/videos/dr-jonathan-papson-has-a-grumpy-day-in-emergency/917103535503712/",
-        "https://www.facebook.com/heraldsun/posts/a-heartwarming-team-effort-from-nurses-doctors-at-the-royal-melbourne-hospital-a/10158861448168171/",
-        "https://www.facebook.com/RoyalMelbourneHospital/videos/meet-nathan-who-is-going-dry-for-julywith-his-team-head-of-our-urology-departmen/324639553060217/",
-        "https://www.facebook.com/PeterMacCallumCancerCentre/posts/were-proud-to-share-that-peter-maccallum-cancer-centre-has-been-formally-designa/1276644044500704/",
-        "https://www.facebook.com/cancervoicesnsw/posts/covid-19-and-cancer-whats-your-experience-cancer-council-nsw-researchers-are-con/3038612982854385/",
-        "https://www.facebook.com/danafarbercancerinstitute/posts/researchers-are-using-cutting-edge-visual-tools-to-understand-how-the-immune-sys/1334985085327812/",
-        "https://www.facebook.com/abcnews.au/posts/a-new-paper-by-australian-researchers-definitively-puts-on-the-record-that-vapin/1518971679584097/",
-        "https://www.facebook.com/RANZCR/posts/find-out-more-about-the-journal-of-medical-imaging-and-radiation-oncologys-trans/1677728803788325/"
-    ],
-    "linkedin.com": [
-        "https://www.linkedin.com/posts/elyssia-bourke-6b640aba_i-am-very-proud-of-the-the-royal-melbourne-activity-7367028433383481344-0869",
-        "https://www.linkedin.com/posts/aprof-peter-gorayski_members-targeting-cancer-management-committee-activity-7430044243148120065-CIJr"
+        "https://my.une.edu.au/staff-directory?q=Library%20Operations%20Specialist&filter=all&pagesize=15&action=Search&sort=Phone",
+        "https://www.lanyonhs.act.edu.au/about_us/staff",
+        "https://www.newcastle.edu.au/profile/profile-sidebars/c-scarlett/chris-scarlett-youtube-video",
+        "https://business.uq.edu.au/staff-directory",
+        "https://www.newcastle.edu.au/profile",
+        "https://www.erea.edu.au/style-guide/staff-directory"
     ],
     "org.au": [
-        "https://bairdinstitute.org.au/baird-news/first-cardiothoracic-team-at-royal-prince-alfred-hospital/",
-        "https://rpaics.org.au/team/",
-        "https://www.careopinion.org.au/68011",
-        "https://news.wapha.org.au/sir-charles-gairdner-osborne-park-health-care-group-gp-hospital-update-1/",
-        "https://thebraincancercentre.org.au/meet-our-researchers/",
+        "https://www.socru.org.au/meet-our-team/",
+        "https://melanoma.org.au/about-us/our-team/",
         "https://www.arcportal.org.au/team",
-        "https://www.mackenziesmission.org.au/our-team/",
-        "https://cew.org.au/community/our-team",
-        "https://www.geneticalliance.org.au/team.php",
-        "https://www.ccs.org.au/who-we-are/our-team/our-team/",
-        "https://anzup.org.au/about-anzup/scientific-advisory-committee/",
-        "https://anzup.org.au/about-anzup/board-of-directors/",
-        "https://anzup.org.au/news/new-research-findings-from-the-enza-p-study-anzup-1901-reveal-a-world-first-combination-treatment-approach-resulted-in-improvement-in-both-survival-and-quality-of-life-for-people-living-with-a-poor-pr/",
-        "https://www.onjcri.org.au/news/staff/onjcri-announces-new-scientific-advisory-committee-a-new-era-in-cancer-research/",
-        "https://anzup.org.au/annual-report-2024/ar2024-ceos-report/",
-        "https://anzup.org.au/annual-report-2023/ar2023-ceos-report/",
-        "https://anzup.org.au/wp-content/uploads/2025/07/ANZUP-2025-Annual-Report-7-LR-linked.pdf",
-        "https://anzup.org.au/wp-content/uploads/2023/07/23-ASM-Booklet-Wiley-online-v8_FINAL.pdf",
-        "https://anzup.org.au/wp-content/uploads/2025/10/251009_ANZUP_ENZARAD-Media-Release-FINAL.pdf",
-        "https://anzup.org.au/annual-report-2023/ar2023-2022-anzup-asm/",
-        "https://www.anzgog.org.au/anzgog-2026-asm-wrap-up/",
-        "https://www.cosaasm.org.au/",
-        "https://gicancer.org.au/news/summary-report-19th-annual-scientific-meeting/",
-        "https://www.anzgogasm.org.au/",
-        "https://sydneycancerpartners.org.au/education-resources/",
-        "https://cogno.org.au/images/COGNO%20Conference%20Booklet%20KL_ESK%20(1).pdf",
-        "https://www.cogno.org.au/docview.aspx?id=297",
-        "https://www.asbd.org.au/images/newsletters/ASBD-June-2017-Newsletter.pdf",
-        "https://www.cosacpgcourses.org.au/",
-        "https://clinicaltrialsalliance.org.au/latest-news/cooperative-trials-group-neuro-oncology-cogno-asm/",
-        "https://www.cancervic.org.au/research/researchers",
-        "https://www.cancervic.org.au/get-support/stories/supporting-cancer-researchers-find-lifesaving-treatments.html"
-    ],
-    "wiley.com": [
-        "https://onlinelibrary.wiley.com/doi/full/10.1111/ans.19102",
-        "https://onlinelibrary.wiley.com/doi/10.1002/ajh.70087",
-        "https://onlinelibrary.wiley.com/doi/abs/10.1111/1754-9485.13289"
-    ],
-    "wikipedia.org": [
-        "https://en.wikipedia.org/wiki/Sir_Charles_Gairdner_Hospital"
-    ],
-    "nhs.uk": [
-        "https://www.pah.nhs.uk/news/category/staff-and-volunteers/?page_no=3",
-        "https://eoeneonatalpccsicnetwork.nhs.uk/our-hospitals/princess-alexandra/"
-    ],
-    "squarespace.com": [
-        "https://static1.squarespace.com/static/5e477e97d218a94af29f944a/t/60212c411d7b3316db4d92c5/1612786755540/Sir+Charles+Gairdner+Medical+Workforce+Contact+List.pdf",
-        "https://anz-obesity-society.squarespace.com/s/ANZOS-Economics-Pilot-Study-Press-Release-051121.pdf"
-    ],
-    "radiopaedia.org": [
-        "https://radiopaedia.org/institutions/5/members"
-    ],
-    "prospeo.io": [
-        "https://prospeo.io/c/sir-charles-gairdner-hospital-email-format"
+        "https://bricc2.bhs.org.au/our-team.php",
+        "https://www.easternhealth.org.au/careers-volunteers/medical-recruitment/medical-training-education/physician-training/meet-our-team/",
+        "https://www.alfredhealth.org.au/services/medical-oncology/med-onc-referring-to-our-team",
+        "https://www.headandneckcancer.org.au/about-us/team-members/",
+        "https://www.breastcancertrials.org.au/our-people/join-our-team/?srsltid=AfmBOoqPdRzKMBRkvOnxhOg4DDQ6rWcmezPXUJh2lIzyAt8RikjVok9p",
+        "https://www.svhs.org.au/our-services/list-of-services/theranostics-and-nuclear-medicine/our-team",
+        "https://pancreaticcentre.org.au/about-us/our-team"
     ],
     "com.au": [
-        "https://nswregionalcrn.com.au/blogs/nsw-regional-cancer-research-network-nswrcrn/2025/03/03/abstracts-open-nsw-cancer-summit-2025-13-14-august",
-        "http://2014.cnsacongress.com.au/abstract-submission--details",
-        "http://2014.cnsacongress.com.au/speakers",
-        "http://2022.cnsacongress.com.au/abstract-submission-details",
-        "https://www.amscongress.com.au/abstract",
-        "https://cancer-2019.p.asnevents.com.au/days/2019-02-14/abstract/60830",
-        "https://cancer-2019.p.asnevents.com.au/speaker/283050",
-        "http://2025.cnsacongress.com.au/abstract-submission-details",
-        "http://2015.cnsacongress.com.au/abstract-submission--details",
-        "https://acipcconference.com.au/2025-speakers-2/",
-        "https://www.hotdoc.com.au/medical-centres/telehealth/medispecialists/doctors/oncologist-dr-prachi-bhave-for-online-consultations",
-        "https://www.hotdoc.com.au/medical-centres/southport-QLD-4215/gen15385-tasman-health-care/doctors/dr-suzanne-allan",
-        "https://www.hotdoc.com.au/medical-centres/southport-QLD-4215/gen15385-tasman-health-care/doctors/dr-pawan-bajaj",
-        "https://www.hotdoc.com.au/medical-centres/southport-QLD-4215/gen15385-tasman-health-care/doctors/dr-andrew-hill",
-        "https://www.hotdoc.com.au/medical-centres/southport-QLD-4215/gen15385-tasman-health-care/doctors",
-        "https://www.hotdoc.com.au/medical-centres/southport-QLD-4215/gen15385-tasman-health-care/doctors/dr-david-martin-2",
-        "https://www.hotdoc.com.au/medical-centres/southport-QLD-4215/gen15385-tasman-health-care/doctors/dr-sylvia-lee",
-        "https://www.hotdoc.com.au/medical-centres/southport-QLD-4215/gen15385-tasman-health-care/doctors/dr-mark-flower",
-        "https://www.hotdoc.com.au/medical-centres/telehealth/medispecialists/doctors",
-        "https://www.hotdoc.com.au/medical-centres/belmont-VIC-3216/skin-screen-clinic/doctors",
-        "https://wsho.com.au/patient-safety-and-quality/",
-        "https://www.stvincentsclinic.com.au/find-a-doctor/specialties/medical-oncology",
-        "https://auroraspecialists.com.au/oncology-services/",
-        "https://wsho.com.au/professionals/work-with-us/",
-        "https://oncnorthcoast.com.au/oncology-north-coast-proudly-serving-our-local-cancer-community-since-2005/",
-        "https://bordermedonc.com.au/for-patients/",
-        "https://www.sydneycolorectalclinic.com.au/cancer_care/",
-        "https://cancercareadelaide.com.au/",
-        "https://www.huntercancercentre.com.au/Our-Doctors/Referrals",
-        "https://www.surgicaloncology.com.au/what-is-breast-cancer-breast-surgeon-north-sydney-nsw.html",
-        "https://irsa.com.au/locations/interventional-radiology-new-zealand/",
-        "https://irsa.com.au/locations/interventional-radiology-australia/",
-        "https://www.cbhsinternationalhealth.com.au/choice-network",
-        "https://berkeleymedical.com.au/service-providers/",
-        "https://www.doctorclosed.com.au/services/findadoctor/",
-        "https://assurehealth.com.au/appointments/",
-        "https://lingardprivate.com.au/patients/find-a-doctor",
-        "https://www.myhealth1st.com.au/find/doctors/nsw/newcastle-and-lake-macquarie/belmont/4d-skin-clinic/dr-barry-venter",
-        "https://www.cancercouncil.com.au/news/female-researchers-making-difference-womens-cancers/",
-        "https://www.cancercouncil.com.au/research/for-researchers/",
-        "https://www.cancercouncil.com.au/research/research-we-conduct/our-researchers/"
-    ],
-    "nih.gov": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8209858/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8440726/"
-    ],
-    "tipsro.science": [
-        "https://www.tipsro.science/article/S2405-6324(22)00035-X/fulltext"
-    ],
-    "thegreenjournal.com": [
-        "https://www.thegreenjournal.com/article/S0167-8140(25)00186-0/fulltext"
-    ],
-    "ranzcr.com": [
-        "https://www.ranzcr.com/wp-content/uploads/edocman/newsletters/Inside%20News%20Sept%202020.pdf",
-        "https://www.ranzcr.com/20211011-position-description-rorc-member/",
-        "https://www.ranzcr.com/20200821-position-description-crrc-member/",
-        "https://www.ranzcr.com/wp-content/uploads/edocman/policy-and-advocacy-inc-position-statements-and-submissions/20180713%20FRO%20submission%20to%20the%20Report%20from%20the%20Oncology%20Clinical%20Committee%20-%20no%20appendices.pdf",
-        "https://www.ranzcr.com/20221018-chief-of-training-and-assessment-radiation-oncology-position-description/"
-    ],
-    "phiro.science": [
-        "https://www.phiro.science/article/S2405-6316(24)00038-1/fulltext"
-    ],
-    "openrepository.com": [
-        "https://christie.openrepository.com/server/api/core/bitstreams/04c22505-0174-41bd-94ab-ae85b4c260cc/content"
-    ],
-    "europepmc.org": [
-        "https://europepmc.org/article/pmc/pmc9748158"
-    ],
-    "semanticscholar.org": [
-        "https://pdfs.semanticscholar.org/584c/f1f577dfc19406d6eb7642d689e982095cbf.pdf"
-    ],
-    "ejcped.com": [
-        "https://www.ejcped.com/article/S2772-610X(25)00023-6/fulltext"
-    ],
-    "edu.in": [
-        "http://statutory.cmcvellore.edu.in/statutory/pdf/publications_jan_dec_2020.pdf"
-    ],
-    "elsevier.es": [
-        "https://static.elsevier.es/visor/htct_47_04.pdf"
-    ],
-    "esmoopen.com": [
-        "https://www.esmoopen.com/article/S2059-7029(22)00235-6/fulltext"
-    ],
-    "sagepub.com": [
-        "https://journals.sagepub.com/doi/10.1177/10781552261417891"
-    ],
-    "instagram.com": [
-        "https://www.instagram.com/p/DXsxOjlk1W6/"
-    ],
-    "x.com": [
-        "https://x.com/COSACPG"
+        "https://www.ama.com.au/node/18254",
+        "https://www.flexera.com.au/",
+        "http://eosworldwide.com.au/",
+        "https://www.bigcommerce.com.au/apps/microsoft-ads-and-listings/",
+        "http://www.estaff.com.au/",
+        "https://wpengine.com.au/",
+        "https://www.springwoodunited.com.au/gotoSponsor.asp?ID=122&url=www%2Ewesleymission%2Eorg%2Eau",
+        "http://www.rmit.com.au/",
+        "https://www.cubeonline.com.au/",
+        "https://www.freelancer.com.au/jobs"
     ]
 }
